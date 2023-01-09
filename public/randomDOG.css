@@ -1,0 +1,24 @@
+#image {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 400px;
+    width: 400px;
+  } 
+  h2{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(14, 14, 183);
+  } 
+
+  button {
+    border-radius: 9px;
+    background-color: rgb(22, 17, 17);
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: larger;
+  }
+  button:hover {
+    background-color: antiquewhite;
+    color: black;
+  }

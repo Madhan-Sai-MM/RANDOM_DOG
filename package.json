@@ -1,0 +1,22 @@
+{
+  "name": "random_dog",
+  "version": "1.0.0",
+  "description": "Here i Have Used html, css and java script fetch calls to retrieve the random dog picture",
+  "main": "randomDOG.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhan-Sai-MM/RANDOM_DOG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhan-Sai-MM/RANDOM_DOG/issues"
+  },
+  "homepage": "https://github.com/Madhan-Sai-MM/RANDOM_DOG#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
